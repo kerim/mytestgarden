@@ -14,13 +14,10 @@ Kerim is also a co-founder of the anthropology blog [anthro{dendum}](https://ant
 - [[Kerim's Works/Kerim's Works\|Kerim's Works]] - Academic and non-academic publications, interviews, and films.
  - [[Kerim's Teaching\|Kerim's Teaching]] - Course syllabi.
 - [[傅可恩\|傅可恩]] - Chinese version of this page.
-### Contacting Kerim
->[!email]
->fulaoshi@oxus.net
 
- >[!social-media]
- >[Mastodon](https://zirk.us/@kerim)
- >[Bluesky](https://bsky.app/profile/kerim.oxus.net)
+### Contacting Kerim
+Email: fulaoshi@oxus.net
+Bluesky: [@kerim.oxus.net](https://bsky.app/profile/kerim.oxus.net)
 
 >[!Snail-mail]
 >Dr. P. Kerim Friedman  
