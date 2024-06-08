@@ -12,7 +12,7 @@ An ethnographic filmmaker, he co-produced the Jean Rouch award-winning documenta
 Kerim is also a co-founder of the anthropology blog [anthro{dendum}](https://anthrodendum.org/) (formerly [Savage Minds](https://savageminds.org/)). His personal blog is [Keywords](https://keywords.oxus.net/). Be sure to check out his newsletter, [Triptych](https://triptych.oxus.net), and his [Digital Garden](https://garden.oxus.net) (a kind of personal wikipedia) as well.
 ### What you will find on this site
 - [[Kerim's Works/Kerim's Works\|Kerim's Works]] - Academic and non-academic publications, interviews, and films.
- - [[Kerim's Teaching\|Kerim's Teaching]] - Course syllabi.
+- [[Kerim's Teaching\|Kerim's Teaching]] - Course syllabi.
 - [[傅可恩\|傅可恩]] - Chinese version of this page.
 
 ### Contacting Kerim
