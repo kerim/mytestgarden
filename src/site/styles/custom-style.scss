@@ -3,7 +3,13 @@ body {
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
- h2, h3, h4, h5, {
+    
+h2, h3, h4, h5, {
    text-align: left;
 }
+.cm-s-obsidian .callout{
+ transform:translatex(0px) translatey(0px);
+ background-color:rgba(122,122,122,0.3);
+}
+    
 }
